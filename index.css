@@ -300,10 +300,6 @@ footer {
     .contact textarea {
         font-size: 0.9rem; /* Reduce el tamaño de los campos */
     }
-
-    footer {
-        font-size: 0.8rem; /* Reduce el tamaño del texto del pie de página */
-    }
 }
 
 
